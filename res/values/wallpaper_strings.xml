@@ -15,6 +15,16 @@
     limitations under the License.
 -->
 <resources>
+	<string name="category_superiorextended">Superior Extended</string>
+    <string name="author_jetbrains">by Rhelvetican</string>
+	<string name="wallpaper_supext_white">SuperiorExtended White</string>
+	<string name="wallpaper_supext_black">SuperiorExtended Black</string>
+	<string name="wallpaper_supext_purple">SuperiorExtended Purple</string>
+	<string name="wallpaper_supext_grey">SuperiorExtended Grey</string>
+	<string name="wallpaper_supext_violet">SuperiorExtended Violet</string>
+	<string name="wallpaper_supext_green">SuperiorExtended Green</string>
+	<string name="wallpaper_supext_abstract">SuperiorExtended Abstract</string>
+	<string name="wallpaper_supext_blue">SuperiorExtended Blue</string>
     <string name="category_space">Space</string>
     <string name="author_infinitum">by Infinitum</string>
     <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>
