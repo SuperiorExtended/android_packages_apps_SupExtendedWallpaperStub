@@ -16,6 +16,58 @@
 -->
 <wallpapers>
 
+	<category id="superiorextended" title="@string/category_superiorextended" featured="supext_purple">
+
+	<static-wallpaper
+            id="supext_white"
+            src="@drawable/supext_white"
+            title="@string/wallpaper_supext_white"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="supext_black"
+            src="@drawable/supext_black"
+            title="@string/wallpaper_supext_black"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="supext_purple"
+            src="@drawable/supext_purple"
+            title="@string/wallpaper_supext_purple"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="supext_grey"
+            src="@drawable/supext_grey"
+            title="@string/wallpaper_supext_grey"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="supext_violet"
+            src="@drawable/supext_violet"
+            title="@string/wallpaper_supext_violet"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="supext_green"
+            src="@drawable/supext_green"
+            title="@string/wallpaper_supext_green"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="supext_abstract"
+            src="@drawable/supext_abstract"
+            title="@string/wallpaper_supext_abstract"
+            subtitle1="@string/author_jetbrains" />
+
+	<static-wallpaper
+            id="supext_blue"
+            src="@drawable/supext_blue"
+            title="@string/wallpaper_supext_blue"
+            subtitle1="@string/author_jetbrains" />
+
+	</category>
+
     <category id="space" title="@string/category_space" featured="space_strange_landscape_1">
 
         <static-wallpaper

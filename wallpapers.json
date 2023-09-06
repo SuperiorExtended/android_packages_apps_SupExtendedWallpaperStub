@@ -1,4 +1,35 @@
 {
+	"SuperiorExtended": {
+		"author": "Rhelvetican",
+		"featured": "supext_purple",
+		"wallpapers": {
+			"SuperiorExtended White": {
+				"1": ""
+			},
+			"SuperiorExtended Black": {
+				"1": ""
+			},
+			"SuperiorExtended Purple": {
+				"1": ""
+			},
+			"SuperiorExtended Grey": {
+				"1": ""
+			},
+			"SuperiorExtended Violet": {
+				"1": ""
+			},
+			"SuperiorExtended Green": {
+				"1": ""
+			},
+			"SuperiorExtended Abstract": {
+				"1": ""
+			},
+			"SuperiorExtended Blue": {
+				"1": ""
+			}
+		}
+	},
+
     "Space": {
         "author": "Infinitum",
         "featured": "space_strange_landscape_1",
