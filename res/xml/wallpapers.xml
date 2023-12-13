@@ -67,5 +67,50 @@
             subtitle1="@string/author_jetbrains" />
 
 	</category>
-    
+
+    <category id="superiorextendedudc" title="@string/category_superiorudc" featured="supext_1">
+
+	<static-wallpaper
+            id="supext_1"
+            src="@drawable/supext_1"
+            title="@string/wallpaper_supext_1"
+            subtitle1="@string/author_udc" />
+
+	<static-wallpaper
+            id="supext_2"
+            src="@drawable/supext_2"
+            title="@string/wallpaper_supext_2"
+            subtitle1="@string/author_udc" />
+
+	<static-wallpaper
+            id="supext_3"
+            src="@drawable/supext_3"
+            title="@string/wallpaper_supext_3"
+            subtitle1="@string/author_udc" />
+
+	<static-wallpaper
+            id="supext_4"
+            src="@drawable/supext_4"
+            title="@string/wallpaper_supext_4"
+            subtitle1="@string/author_udc" />
+
+	<static-wallpaper
+            id="supext_5"
+            src="@drawable/supext_5"
+            title="@string/wallpaper_supext_5"
+            subtitle1="@string/author_udc" />
+
+	<static-wallpaper
+            id="supext_6"
+            src="@drawable/supext_6"
+            title="@string/wallpaper_supext_6"
+            subtitle1="@string/author_udc" />
+
+	<static-wallpaper
+            id="supext_7"
+            src="@drawable/supext_7"
+            title="@string/wallpaper_supext_7"
+            subtitle1="@string/author_udc" />
+
+	</category>    
 </wallpapers>

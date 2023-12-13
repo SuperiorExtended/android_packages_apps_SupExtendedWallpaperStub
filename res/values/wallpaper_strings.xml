@@ -15,17 +15,28 @@
     limitations under the License.
 -->
 <resources>
-	<string name="category_superiorextended">Superior Extended</string>
+    <string name="category_superiorextended">Superior Extended</string>
     <string name="author_jetbrains">by Rhelvetican</string>
-	<string name="wallpaper_supext_white">SuperiorExtended White</string>
-	<string name="wallpaper_supext_black">SuperiorExtended Black</string>
-	<string name="wallpaper_supext_purple">SuperiorExtended Purple</string>
-	<string name="wallpaper_supext_grey">SuperiorExtended Grey</string>
-	<string name="wallpaper_supext_violet">SuperiorExtended Violet</string>
-	<string name="wallpaper_supext_green">SuperiorExtended Green</string>
-	<string name="wallpaper_supext_abstract">SuperiorExtended Abstract</string>
-	<string name="wallpaper_supext_blue">SuperiorExtended Blue</string>
-    <string name="category_space">Space</string>
+    <string name="wallpaper_supext_white">SuperiorExtended White</string>
+    <string name="wallpaper_supext_black">SuperiorExtended Black</string>
+    <string name="wallpaper_supext_purple">SuperiorExtended Purple</string>
+    <string name="wallpaper_supext_grey">SuperiorExtended Grey</string>
+    <string name="wallpaper_supext_violet">SuperiorExtended Violet</string>
+    <string name="wallpaper_supext_green">SuperiorExtended Green</string>
+    <string name="wallpaper_supext_abstract">SuperiorExtended Abstract</string>
+    <string name="wallpaper_supext_blue">SuperiorExtended Blue</string>
+
+    <string name="category_superiorudc">Superior Extended 14</string>
+    <string name="author_udc">by Dabi</string>
+    <string name="wallpaper_supext_1">SuperiorExtended 1</string>
+    <string name="wallpaper_supext_2">SuperiorExtended 2</string>
+    <string name="wallpaper_supext_3">SuperiorExtended 3</string>
+    <string name="wallpaper_supext_4">SuperiorExtended 4</string>
+    <string name="wallpaper_supext_5">SuperiorExtended 5</string>
+    <string name="wallpaper_supext_6">SuperiorExtended 6</string>
+    <string name="wallpaper_supext_7">SuperiorExtended 7</string>
+
+    <!-- <string name="category_space">Space</string>
     <string name="author_infinitum">by Infinitum</string>
     <string name="wallpaper_space_as_seen_from_mars_1">As Seen From Mars</string>
     <string name="wallpaper_space_blue_giant_1">Blue Giant</string>
@@ -132,5 +143,5 @@
     <string name="url_elementary_tj_holowaychuk_1">https://unsplash.com/photos/iGrsa9rL11o</string>
     <string name="author_viktor_forgacs">by Viktor Forgacs</string>
     <string name="wallpaper_elementary_viktor_forgacs_1">Viktor Forgacs</string>
-    <string name="url_elementary_viktor_forgacs_1">https://unsplash.com/photos/q8XSCZYh6D8</string>
+    <string name="url_elementary_viktor_forgacs_1">https://unsplash.com/photos/q8XSCZYh6D8</string> -->
 </resources>

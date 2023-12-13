@@ -1,4 +1,32 @@
 {
+	"SuperiorExtendedUDC": {
+		"author": "Dabi",
+		"featured": "supext_1",
+		"wallpapers": {
+			"SuperiorExtended 1": {
+				"1": ""
+			},
+			"SuperiorExtended 2": {
+				"1": ""
+			},
+			"SuperiorExtended 3": {
+				"1": ""
+			},
+			"SuperiorExtended 4": {
+				"1": ""
+			},
+			"SuperiorExtended 5": {
+				"1": ""
+			},
+			"SuperiorExtended 6": {
+				"1": ""
+			},
+			"SuperiorExtended 7": {
+				"1": ""
+			}
+		}
+	},
+
 	"SuperiorExtended": {
 		"author": "Rhelvetican",
 		"featured": "supext_purple",
